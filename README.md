@@ -31,7 +31,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
-| ?.?.?        	 |  ??-??-??	   	 |		Desitncy|		[Download](https://mega.nz/file/5OYSBRpJ#DM1H3gj19thX4iB6sew6Wdj9JTEHdglGcBX0k0Q5HL8)|		169MB|
+| ?.?.?        	 |  ??-??-??	   	 |		Desitncy|		[Download](https://autopatchhk.yuanshen.com/client_app/destincy.zip)|		169MB|
 | 1.2.1565149        	 |  ??-??-??	   	 |		1.2-1565149_1.2_rel-1594157_test|		[Download](https://autopatchcn.yuanshen.com/client_app/pc_release/1.2-1565149_1.2_rel-1594157_test.zip)|		16.1GB|
 
 </details>
