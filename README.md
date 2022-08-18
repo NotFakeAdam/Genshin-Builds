@@ -42,7 +42,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
-| 0.0.1        	 |  21-06-19	   	 |		Closed Beta 1|		~~Download~~|		2|
+| 0.0.1        	 |  21-06-19	   	 |		Closed Beta 1|		~~Download~~ i will upload eventually|		3.5GB|
 | 0.7.0        	 |  ??-??-20	   	 |		Closed Beta 2|		[Download](https://autopatchhk.yuanshen.com/client_app/pc_plus19/Genshin_0.7.0.zip)|		7.6GB|
 | 0.7.1        	 |  18-03-20	   	 |		Closed Beta 2|		[Download](https://autopatchhk.yuanshen.com/client_app/pc_plus19/Genshin_0.7.1.zip)|		7.8GB|
 | 0.9.0        	 |  ??-??-20	   	 |		Closed Beta 3|		[Download](https://autopatchcn.yuanshen.com/client_app/pc_release/YuanShen_0.9.0.zip)|		8.4GB|
