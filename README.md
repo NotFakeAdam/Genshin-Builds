@@ -90,7 +90,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 # 3.0 - Sumeru
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
-| 3.0.0        	 |  24-08-22	   	 |		The Morn a Thousand Roses Brings|		[None]()|		40.0GB+|
+| 3.0.0        	 |  24-08-22	   	 |		The Morn a Thousand Roses Brings|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220815143807_dyIghvy1b5fjfzHU/GenshinImpact_3.0.0.zip)|		34.5GB|
 | 3.1.0        	 |  28-09-22	   	 |		???|		[None]()|		40.0GB+|
 | 3.2.0        	 |  02-11-22	   	 |		???|		[None]()|		40.0GB+|
 | 3.3.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
