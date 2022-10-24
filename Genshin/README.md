@@ -100,7 +100,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
 | 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
 
-# 4.0 - ???
+# 4.0 - Fontaine
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
 | 4.0.0        	 |  ??-??-??	   	 |		???|		[Download]
