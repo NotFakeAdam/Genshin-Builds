@@ -98,7 +98,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.5.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
 | 3.6.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
 | 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.9.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
 
 # 4.0 - ???
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
