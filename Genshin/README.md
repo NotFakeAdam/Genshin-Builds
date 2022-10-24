@@ -94,3 +94,13 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.1.0        	 |  28-09-22	   	 |		King Deshret and the Three Magi|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220917165430_NyMmj1Ta9KlZKgCZ/GenshinImpact_3.1.0.zip)|		39.7GB|
 | 3.2.0        	 |  02-11-22	   	 |		Akasha Pulses, the Kalpa Flame Rises|		[None]()|		40.0GB+|
 | 3.3.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.4.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.5.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.6.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.9.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+
+# 4.0 - ???
+| Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
+| ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
+| 4.0.0        	 |  ??-??-??	   	 |		???|		[Download]
