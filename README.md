@@ -93,12 +93,12 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.0.0        	 |  24-08-22	   	 |		The Morn a Thousand Roses Brings|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220815143807_dyIghvy1b5fjfzHU/GenshinImpact_3.0.0.zip)|		34.5GB|
 | 3.1.0        	 |  28-09-22	   	 |		King Deshret and the Three Magi|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220917165430_NyMmj1Ta9KlZKgCZ/GenshinImpact_3.1.0.zip)|		39.7GB|
 | 3.2.0        	 |  02-11-22	   	 |		Akasha Pulses, the Kalpa Flame Rises|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip)|		40.5GB|
-| 3.3.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.4.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.5.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.6.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
-| 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		40.0GB+|
+| 3.3.0        	 |  07-12-22	   	 |		All Senses Clear, All Existence Void|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221128113321_cOH1qEM6iRagjJC6/GenshinImpact_3.3.0.zip)|		42.5GB+|
+| 3.4.0        	 |  18-01-23	   	 |		The Exquisite Night Chimes|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip)|		44.6GB+|
+| 3.5.0        	 |  01-03-23	   	 |		Windblume's Breath|		[None]()|		46.0GB+|
+| 3.6.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
+| 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
+| 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
 
 # 4.0 - Fontaine
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
