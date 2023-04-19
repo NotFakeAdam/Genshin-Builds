@@ -96,7 +96,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.3.0        	 |  07-12-22	   	 |		All Senses Clear, All Existence Void|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221128113321_cOH1qEM6iRagjJC6/GenshinImpact_3.3.0.zip)|		42.5GB|
 | 3.4.0        	 |  18-01-23	   	 |		The Exquisite Night Chimes|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip)|		44.6GB|
 | 3.5.0        	 |  01-03-23	   	 |		Windblume's Breath|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230220120928_iIYV9krGiWL06eeB/GenshinImpact_3.5.0.zip)|		47.9GB|
-| 3.6.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
+| 3.6.0        	 |  12-04-23	   	 |		A Parade of Providence|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip)|		47.6GB|
 | 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
 | 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
 
