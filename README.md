@@ -98,7 +98,6 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.5.0        	 |  01-03-23	   	 |		Windblume's Breath|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230220120928_iIYV9krGiWL06eeB/GenshinImpact_3.5.0.zip)|		47.9GB|
 | 3.6.0        	 |  12-04-23	   	 |		A Parade of Providence|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip)|		47.6GB|
 | 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
-| 3.8.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
 
 # 4.0 - Fontaine
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
