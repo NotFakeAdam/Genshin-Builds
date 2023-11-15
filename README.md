@@ -97,9 +97,12 @@ Contains every version of genshin for download (will put on mega in the near fut
 | 3.4.0        	 |  18-01-23	   	 |		The Exquisite Night Chimes|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip)|		44.6GB|
 | 3.5.0        	 |  01-03-23	   	 |		Windblume's Breath|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230220120928_iIYV9krGiWL06eeB/GenshinImpact_3.5.0.zip)|		47.9GB|
 | 3.6.0        	 |  12-04-23	   	 |		A Parade of Providence|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip)|		47.6GB|
-| 3.7.0        	 |  07-12-22	   	 |		???|		[None]()|		46.0GB+|
+| 3.7.0        	 |  24-05-23	   	 |		Duel! The Summoners' Summit!|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip)|		48.6GB|
+| 3.8.0        	 |  05-07-23	   	 |		Secret Summer Paradise|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230625120419_BEKxsz5x6A7uZvGW/GenshinImpact_3.8.0.zip)|		49.4GB|
 
 # 4.0 - Fontaine
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
-| 4.0.0        	 |  ??-??-??	   	 |		???|		[None]()
+| 4.0.0        	 |  16-08-23	   	 |		As Light Rain Falls Without Reason|		[Download](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip)|		56.2GB|
+| 4.1.0        	 |  27-09-23	   	 |		To the Stars Shining in the Depths|		[3.8.0 to 4.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.8.0_4.1.0_hdiff_oC7ajt1xOVZnp54s.zip)|		37.5GB|
+| 4.2.0        	 |  08-11-23	   	 |		Masquerade of the Guilty|		[4.0.0 to 4.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.0.0_4.2.0_hdiff_NGAnaC4bD0z6Excs.zip)|		19.0GB|
